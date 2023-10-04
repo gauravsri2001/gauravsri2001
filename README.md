@@ -2,8 +2,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsri2001&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsri2001" /> </p>
 
 # 💫 About Me:
-🏫 Final Year Student at VIT Bhopal University<br>🤝 I’m looking for a Job opportunity here is [My Resume] (https://docs.google.com/document/d/1YZ4GN4Pz43BY-K4Og7YmOfLtzBjfUcoK/edit?usp=drive_link).
-I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1enuxUOGH-nDu5yJWI9C9J6DDaA-VHMYo/view?usp=sharing).
+🏫 Final Year Student at VIT Bhopal University<br>🤝 I’m looking for a Job opportunity here is [My Resume](https://docs.google.com/document/d/1YZ4GN4Pz43BY-K4Og7YmOfLtzBjfUcoK/edit?usp=drive_link).
+
 <br>📫 How to reach me 2001srigaurav@gmail.com<br>🌱 I’m currently learning DSA and AWS<br>📖 Always ready to learn new things<br>
 
 
