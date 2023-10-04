@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav Srivastava</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsri2001&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsri2001" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=gauravsri2001&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 # 💫 About Me:
 🏫 Final Year Student at VIT Bhopal University<br>
